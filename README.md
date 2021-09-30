@@ -1,2 +1,2 @@
-# elementary-coding-bootcamp-wiki
+# Elementary-coding-bootcamp-wiki
 The course note of elementary coding bootcamp
