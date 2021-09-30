@@ -10,7 +10,7 @@ Element 由 < p style="color:red"> IT123 < /p> 組成
   < p > 是一個Opening tag  
   style="color:red" 是一個屬性(Attribute)  
   IT123 是內容(Content)  
-  </p> 是一個Closing tag  
+  < /p> 是一個Closing tag  
     
    記得在創建html檔時, 首行**必須**是<!DOCTYPE html> 去聲明這是一個HTML5檔案
    必須的tag可以詳細看lession2.pdf中的page6
