@@ -10,7 +10,7 @@ And/ or 等關係要了解清楚
 Comparison, Identity, Membership  
 Comparison: boolean -> True/ False  
 Identity: is / is not  
-Membership: in/ not in
+Membership: in/ not in  
 有難度的if condition 和 for/while Loop  
 
 ## Function
