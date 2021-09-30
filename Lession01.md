@@ -1,4 +1,4 @@
-# 第一課內容重點:
+# 第一課Introdcution & Web Technology內容重點:
 
 ## 什麼是URL (Uniform Resource Locators)?
   其實意思就是網址 (https://jiangren.com.au/)  
