@@ -1,2 +1,2 @@
 # Elementary-coding-bootcamp-wiki
-The course note of elementary coding bootcamp
+课程链接：https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code
