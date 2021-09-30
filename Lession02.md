@@ -12,7 +12,7 @@ Element 由 < p style="color:red"> IT123 < /p> 組成
   IT123 是內容(Content)  
   < /p> 是一個Closing tag  
     
-   記得在創建html檔時, 首行**必須**是<!DOCTYPE html> 去聲明這是一個HTML5檔案
+   記得在創建html檔時, 首行**必須**是< !DOCTYPE html> 去聲明這是一個HTML5檔案
    必須的tag可以詳細看lession2.pdf中的page6
    
 ## <head>中包含哪些?
@@ -30,11 +30,11 @@ Element 由 < p style="color:red"> IT123 < /p> 組成
   Inline Element: 就是element的闊度是有限制的, 只能填滿該element的內容闊度
   
 ## Link tag
-  記得在<a>中加入target=" " 是可以控制該超連結的開啟方式(例如: _blank 就是可以打開一個新tab)
+  記得在< a>中加入target=" " 是可以控制該超連結的開啟方式(例如: _blank 就是可以打開一個新tab)
   
 ## Header h1-h6
   一個網頁 **只可以一個h1** 其餘的沒限制  
  原因是會影響在搜尋中的排名
   
 ## Text類
-  在<p>內實現換行 記得是用<br> 不然沒效果
+  在< p>內實現換行 記得是用< br> 不然沒效果
