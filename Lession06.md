@@ -7,7 +7,7 @@
 And/ or 等關係要了解清楚  
 
 ## Condition
-Comparison, Identity, Membership  
+分別是 Comparison, Identity, Membership  
 Comparison: boolean -> True/ False  
 Identity: is / is not  
 Membership: in/ not in  
