@@ -8,4 +8,4 @@ self parameter: 是一個使用在class 裡面的function。
 globle variable 和 local variable的分別要清楚  
 Globle variable: 是在function外的變量 能外部使用
 Local variable:  在function/class 裡面的變量, 只能在該function/class內使用  
-__init__ 的使用可以幫我們省去一點重複的coding  
+__ init__ 的使用可以幫我們省去一點重複的coding  
