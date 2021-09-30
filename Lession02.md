@@ -6,7 +6,7 @@
   Javascript: 像是人的肌肉, 包括網頁上的行為 P.S. 老師在Javascript補充 實際可以做任何事情, 包括更改已有的HTML和CSS
 
 ## HTML基本語法&佈局
-Element 由 < p style="color:red"> IT123 </p > 組成  
+Element 由 < p style="color:red"> IT123 < /p> 組成  
   < p > 是一個Opening tag  
   style="color:red" 是一個屬性(Attribute)  
   IT123 是內容(Content)  
