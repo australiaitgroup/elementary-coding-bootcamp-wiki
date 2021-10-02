@@ -21,6 +21,6 @@ this. 的用途很多, 其中一個是返回該object中local的值, 另外可�
 通過使用 document.querySelector 可以把HTML的東西給抓出來  
 querySelectorALL 就可以把一樣的全部抓出來, 這樣就會像Array一樣, 所以可以用[0,1,2,3..etc]給抓想要的element出來  
   <hr>
-  有homework呀!! 同學記得做! 老師會有回饋!  
+  有homework呀!!  
   DOM作業 概念可以在課堂大概 2:43:00左右 看一下!  
   Javascript作業  概念可以在課堂大概 2:50:00左右 看一下!
