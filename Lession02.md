@@ -15,13 +15,13 @@ Element 由 < p style="color:red"> IT123 < /p> 組成
    記得在創建html檔時, 首行**必須**是< !DOCTYPE html> 去聲明這是一個HTML5檔案
    必須的tag可以詳細看lession2.pdf中的page6
    
-## <head>中包含哪些?
+## head中包含哪些?
   title, meta, link, style, script 也是放在<head>當中  
   在link當中, 如果要把外部的CSS顯示在這個HTML內, 必須寫上rel="stylesheet"  
   在script當中,要寫上Scr="..."  
   **留意** head中的內容不會顯示在網頁的內容內
   
-## <body> 包含什麼?
+## body包含什麼?
   就想把你想顯示的內容放在body裡  
   例如: 表格, 圖片, 文字..etc
   
